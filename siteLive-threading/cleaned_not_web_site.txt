@@ -1,0 +1,712 @@
+https://118.89.207.167:8080---------------400 Bad Request
+https://118.89.207.146:8000---------------400 Bad Request
+https://118.89.207.131:8000---------------400 Bad Request
+https://118.89.207.113:8000---------------400 Bad Request
+121.41.17.53---------------404 Not Found
+121.41.17.133---------------404 Not Found
+121.41.17.40---------------404
+218.83.157.182---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://125.64.103.34:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.148:8000---------------400 Bad Request
+https://118.89.207.28:8000---------------400 Bad Request
+https://118.89.207.41:8000---------------400 Bad Request
+https://118.89.207.176:8080---------------400 Bad Request
+https://118.89.207.172---------------400 Bad Request
+113.96.200.121---------------404 Not Found
+https://117.174.147.100:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.145:8080---------------400 Bad Request
+https://118.89.207.159:8080---------------400 Bad Request
+120.55.139.107---------------404
+121.41.17.201:8888---------------404 Not Found
+https://124.236.58.45:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.84:8080---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+120.55.139.247---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.113---------------400 Bad Request
+https://118.89.207.120:8080---------------400 Bad Request
+https://43.243.235.83:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://42.81.61.18:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.194:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.73:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.34:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.50---------------404 Not Found
+120.55.139.12---------------404 Not Found
+112.65.142.25---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.166---------------400 Bad Request
+https://42.81.61.47:8000---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.207:8000---------------400 Bad Request
+101.231.138.28---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://222.211.12.210:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.28---------------400 Bad Request
+https://118.89.207.172:8000---------------400 Bad Request
+121.41.17.172---------------404 Not Found
+https://118.89.207.21:8080---------------400 Bad Request
+https://118.89.207.135---------------400 Bad Request
+https://118.89.207.180:8000---------------400 Bad Request
+https://118.89.207.138:8080---------------400 Bad Request
+https://app.ecidi.com/dx8hjdgoperjf---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+113.96.232.208:8080---------------404 Not Found
+https://118.89.207.159:8000---------------400 Bad Request
+https://118.89.207.116:8000---------------400 Bad Request
+https://118.89.207.23:8000---------------400 Bad Request
+121.41.17.54---------------404 Not Found
+https://118.89.207.116:8080---------------400 Bad Request
+218.83.157.75---------------404 Not Found
+42.159.132.179---------------Microsoft Azure Web App - Error 404
+https://118.89.207.117---------------400 Bad Request
+https://118.89.207.130:8000---------------400 Bad Request
+121.41.17.97---------------404 Not Found
+120.55.139.23---------------404 Not Found
+https://118.89.207.161:8080---------------400 Bad Request
+https://118.89.207.165:8000---------------400 Bad Request
+112.65.142.29---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://117.174.147.44:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.130:8080---------------400 Bad Request
+121.41.17.60---------------404 Not Found
+101.231.138.151---------------404 - File or directory not found.
+https://183.222.99.21:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.202:2013---------------400 The plain HTTP request was sent to HTTPS port
+42.159.233.171---------------404 Not Found
+101.89.136.125---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.174---------------400 Bad Request
+https://222.211.12.218:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.138---------------404 Not Found
+https://118.89.207.134:8080---------------400 Bad Request
+121.41.17.93---------------404 Not Found
+113.96.233.157---------------404 Not Found
+120.55.139.91---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+218.83.157.3---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.165---------------404 Not Found
+121.41.17.138---------------404 Not Found
+https://183.222.99.129:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.125---------------400 Bad Request
+121.41.17.18:8083---------------404 Not Found
+117.174.179.95---------------404 - Not Found
+https://42.81.61.19:50070---------------400 The plain HTTP request was sent to HTTPS port
+101.231.138.29---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.21---------------400 Bad Request
+https://222.211.12.213:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.186---------------404 Not Found
+121.41.17.189---------------404 Not Found
+https://103.254.188.107:7002---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.161---------------404 Not Found
+https://117.174.147.101:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.179:8080---------------400 Bad Request
+https://183.222.99.190:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.23:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.183:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.131---------------404 - File or directory not found.
+https://222.211.12.90:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.225:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.23:8080---------------400 Bad Request
+https://118.89.207.113---------------400 Bad Request
+42.159.237.10---------------404 Not Found
+https://118.89.207.138:8000---------------400 Bad Request
+120.55.139.144---------------Apache Tomcat/8.0.26 - Error report
+https://43.243.235.92:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.144.181.165---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.8---------------404 Not Found
+https://43.243.234.92:8000---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.139:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.127:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.176---------------400 Bad Request
+https://124.236.58.225:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.169---------------404 Not Found
+https://118.89.207.174---------------400 Bad Request
+121.41.17.109---------------404 Not Found
+https://113.96.232.40---------------400 Bad Request
+171.90.249.46---------------404 - Not Found
+https://118.89.207.163:8000---------------400 Bad Request
+59.37.96.71---------------404 Not Found
+https://118.89.207.28:8080---------------400 Bad Request
+101.231.138.30---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.141---------------404 Not Found
+https://118.89.207.123---------------400 Bad Request
+117.144.181.165---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+120.55.139.96---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.155:8000---------------400 Bad Request
+https://222.211.12.143:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.161---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://43.243.234.241:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.116:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.82:2013---------------400 The plain HTTP request was sent to HTTPS port
+183.222.99.199---------------404 - Not Found
+121.41.17.165---------------404 Not Found
+101.231.138.3---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.177---------------404 Not Found
+121.41.17.11---------------404 Not Found
+https://118.89.207.143---------------400 Bad Request
+101.231.138.188---------------404 - File or directory not found.
+https://118.89.207.155---------------400 Bad Request
+42.159.237.112---------------404 - File or directory not found.
+121.41.17.204---------------404 Not Found
+120.55.139.167---------------JBossWeb/2.0.1.GA - Error report
+120.55.139.135---------------404
+221.133.247.205---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://113.96.208.217---------------400 Bad Request
+120.55.139.34---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://171.90.249.60:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.140---------------400 Bad Request
+121.41.17.54---------------404 Not Found
+117.144.181.169---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://218.89.76.90:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.137---------------400 Bad Request
+https://118.89.207.207---------------400 Bad Request
+https://118.89.207.123:8000---------------400 Bad Request
+113.96.232.204:8080---------------404 Not Found
+https://183.222.99.134:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.242:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.92---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.215---------------404 Not Found
+121.41.17.143:8888---------------404 Not Found
+https://42.81.61.14:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.63:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.55---------------404 Not Found
+https://218.89.76.132:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.47---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+120.55.139.76---------------404 Not Found
+https://118.89.207.127:8080---------------400 Bad Request
+https://118.89.207.143:8080---------------400 Bad Request
+https://183.222.99.16:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.79:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.243---------------网站404页面
+https://117.174.147.63:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://125.64.103.226:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.81---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://222.211.12.95:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.17:8080---------------Apache Tomcat/5.5.27 - Error report
+https://43.243.234.235:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.17:2013---------------400 The plain HTTP request was sent to HTTPS port
+113.96.208.186---------------404 Not Found
+https://118.89.207.180---------------400 Bad Request
+42.81.61.67---------------404 Not Found
+42.159.133.111---------------404 - File or directory not found.
+https://183.222.99.74:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.177---------------400 Bad Request
+https://103.254.188.45:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.195---------------400 Bad Request
+117.144.181.181---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://218.89.76.87:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.144.181.168---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.28---------------404 Not Found
+https://118.89.207.146---------------400 Bad Request
+https://222.211.12.176:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.220:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.88:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://113.96.232.142---------------400 Bad Request
+121.41.17.70---------------404 Not Found
+https://113.96.208.217---------------400 Bad Request
+120.55.139.75---------------404 Not Found
+42.159.237.70---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.145---------------400 Bad Request
+120.55.139.178---------------Apache Tomcat/7.0.56 - Error report
+https://118.89.207.166---------------400 Bad Request
+https://118.89.207.174:8080---------------400 Bad Request
+121.41.17.172---------------404 Not Found
+121.41.17.154:8080---------------404 Not Found
+117.174.147.68---------------404 Not Found
+121.41.17.217---------------404 Not Found
+https://124.236.58.221:2013---------------400 The plain HTTP request was sent to HTTPS port
+113.96.208.254---------------404 Not Found
+120.55.139.198---------------404
+https://118.89.207.111:8080---------------400 Bad Request
+https://124.236.58.41:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.144.181.169---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://222.211.12.158:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://120.55.139.45:8888---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.130---------------400 Bad Request
+https://43.243.234.238:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.16---------------404 Not Found
+https://117.174.147.61:2013---------------400 The plain HTTP request was sent to HTTPS port
+124.236.58.21---------------404 - Not Found
+https://118.89.207.144---------------400 Bad Request
+https://113.96.208.117---------------400 Bad Request
+218.83.157.3---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.218:8888---------------404错误页面
+https://43.243.234.41:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.133:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://113.96.232.183---------------400 Bad Request
+https://117.174.147.54:2013---------------400 The plain HTTP request was sent to HTTPS port
+113.96.232.59---------------404 Not Found
+https://43.243.235.93:2013---------------400 The plain HTTP request was sent to HTTPS port
+218.83.157.75---------------404 Not Found
+121.41.17.32---------------404 Not Found
+https://118.89.207.180---------------400 Bad Request
+112.65.142.25---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.245---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+117.144.181.179---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+101.231.138.11---------------404 Not Found
+https://117.174.147.49:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.66---------------404 Not Found
+https://118.89.207.24:8080---------------400 Bad Request
+58.246.134.162---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://43.243.234.31:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.216:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.157---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://171.90.249.36:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.167---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://222.211.12.136:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://113.96.208.155---------------400 Request Header Or Cookie Too Large
+https://222.211.12.100:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.129---------------400 Bad Request
+117.144.181.179---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.139:8000---------------400 Bad Request
+https://218.89.76.68:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.73---------------404 Not Found
+https://118.89.207.134---------------400 Bad Request
+https://43.243.234.237:7002---------------400 The plain HTTP request was sent to HTTPS port
+101.231.138.188---------------404 - File or directory not found.
+https://118.89.207.137---------------400 Bad Request
+43.243.234.212---------------404 Not Found
+https://222.211.12.93:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.147---------------400 Bad Request
+https://118.89.207.164---------------400 Bad Request
+https://43.243.234.214---------------400 Bad Request
+https://218.89.76.65:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.19:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.195:8000---------------400 Bad Request
+https://103.254.188.219:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.28---------------400 Bad Request
+42.81.61.89---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.217---------------404 Not Found
+https://118.89.207.211---------------400 Bad Request
+https://118.89.207.23---------------400 Bad Request
+101.231.138.222---------------404 - File or directory not found.
+https://124.236.58.8:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.162---------------404 Not Found
+120.55.139.121---------------404 Not Found
+https://183.222.99.131:2013---------------400 The plain HTTP request was sent to HTTPS port
+42.159.233.73---------------Redmine 404 error
+121.41.17.235---------------404 Not Found
+https://118.89.207.41---------------400 Bad Request
+https://183.222.99.77:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.82:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.211---------------400 Bad Request
+https://117.174.147.43:2013---------------400 The plain HTTP request was sent to HTTPS port
+101.231.138.28---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+203.94.24.7---------------404 Not Found
+112.65.142.22---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+112.65.142.29---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+42.159.132.63---------------404 Not Found
+113.96.208.247---------------404 Not Found
+https://222.211.12.86:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.219---------------404 Not Found
+43.243.234.52---------------404 Not Found
+https://118.89.207.111---------------400 Bad Request
+183.222.99.22---------------404 Not Found
+https://124.236.58.62:2013---------------400 The plain HTTP request was sent to HTTPS port
+42.81.61.100---------------404 Not Found
+218.89.76.119---------------404 Not Found
+https://222.211.12.199:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.163---------------400 Bad Request
+https://183.222.99.188:7002---------------400 The plain HTTP request was sent to HTTPS port
+218.89.76.120---------------404 Not Found
+113.96.208.235---------------HTTP Status 404 - Not Found
+43.243.235.39---------------404 - Not Found
+121.41.17.72---------------404 Not Found
+https://118.89.207.149---------------400 Bad Request
+https://222.211.12.174:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.163:2013---------------400 The plain HTTP request was sent to HTTPS port
+101.231.138.30---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+101.231.138.250---------------404 - File or directory not found.
+https://118.89.207.171---------------400 Bad Request
+113.96.232.181:8080---------------404 Not Found
+121.41.17.229---------------HTTP Status 404 - Not Found
+120.55.139.229---------------404
+121.41.17.36---------------404 Not Found
+https://118.89.207.42---------------400 Bad Request
+https://117.174.147.58:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.174.179.96---------------404 - Not Found
+121.41.17.28---------------404 Not Found
+113.96.208.254---------------404 Not Found
+120.55.139.46---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+120.55.139.249---------------404
+112.65.142.22---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.162---------------400 Bad Request
+113.96.233.157---------------404 Not Found
+https://124.236.58.57:2013---------------400 The plain HTTP request was sent to HTTPS port
+42.81.61.55:8000---------------404 Not Found
+https://218.89.76.17:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.147:8080---------------400 Bad Request
+42.81.61.35---------------404 Not Found
+https://222.211.12.94:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.112---------------404 Not Found
+121.41.17.152---------------404 Not Found
+121.41.17.143---------------404 Not Found
+112.65.142.30---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.16---------------404 Not Found
+https://ec.dnspod.cn/dx8hjdgoperjf---------------Error: 404 Not Found
+121.41.17.173---------------404 Not Found
+43.243.234.199---------------404 Not Found
+121.41.17.245---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://218.89.76.18:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.195---------------400 Bad Request
+121.41.17.50---------------404 Not Found
+https://117.174.179.241:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.42---------------400 Bad Request
+https://103.254.188.54:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.131:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.199---------------404 Not Found
+https://43.243.235.139:2013---------------400 The plain HTTP request was sent to HTTPS port
+113.96.208.150---------------404 Not Found
+https://118.89.207.140---------------400 Bad Request
+https://121.41.17.67---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.225:7001---------------400 The plain HTTP request was sent to HTTPS port
+42.81.61.55:8080---------------404 - Not Found
+121.41.17.93:8888---------------404 Not Found
+https://222.211.12.196:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.71---------------404 Not Found
+https://118.89.207.166:8000---------------400 Bad Request
+https://118.89.207.121---------------400 Bad Request
+https://118.89.207.155---------------400 Bad Request
+https://118.89.207.162:8080---------------400 Bad Request
+https://171.90.249.37:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.116---------------400 Bad Request
+https://117.174.179.155:7001---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.38:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.208:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.160---------------404 Not Found
+https://118.89.207.146---------------400 Bad Request
+42.159.237.10---------------404 Not Found
+https://103.254.188.66:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.136---------------400 Bad Request
+42.81.61.89---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://117.174.147.57:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.148---------------400 Bad Request
+121.41.17.249---------------404 Not Found
+https://118.89.207.129:8000---------------400 Bad Request
+113.96.200.17---------------404 Not Found
+https://www.hrforce.cn/dx8hjdgoperjf---------------404 Page Not Found
+113.96.200.121---------------404 Not Found
+https://118.89.207.111---------------400 Bad Request
+https://118.89.207.171---------------400 Bad Request
+https://222.211.12.97:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.111:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.121:8080---------------400 Bad Request
+https://124.236.58.49:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://ugo.admin.supergk.com/dx8hjdgoperjf---------------404 Not Found
+https://118.89.207.24---------------400 Bad Request
+https://118.89.207.237:8000---------------400 Bad Request
+121.41.17.15---------------404 Not Found
+https://118.89.207.144:8000---------------400 Bad Request
+https://218.89.76.91:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://42.81.61.18:50070---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.159:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.179.154:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.235.95:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.76:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.170---------------400 Bad Request
+218.83.157.181---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+218.89.76.143---------------404 Not Found
+https://113.96.232.215---------------400 Bad Request
+https://118.89.207.171:8000---------------400 Bad Request
+https://222.211.12.219:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.22:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.24:8000---------------400 Bad Request
+https://118.89.207.41:8080---------------400 Bad Request
+https://218.89.76.54:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://121.41.17.134:8000---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.77:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.96:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.8---------------404 Not Found
+https://222.211.12.114:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.237:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.73:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.132:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.72---------------404 Not Found
+42.81.61.35---------------404 Not Found
+113.96.208.81---------------404 Not Found
+https://117.174.179.158:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://171.90.249.34:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.131---------------400 Bad Request
+113.96.200.18---------------404 Not Found
+https://183.222.99.12:2013---------------400 The plain HTTP request was sent to HTTPS port
+101.89.136.128:8000---------------404 Not Found
+https://124.236.58.254:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.84---------------404 Not Found
+218.89.76.143---------------404 Not Found
+https://118.89.207.174:8000---------------400 Bad Request
+121.41.17.173---------------404 Not Found
+https://118.89.207.122:8000---------------400 Bad Request
+124.236.58.209---------------404 - Not Found
+https://124.236.58.76:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.54:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.179.155:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.84---------------404 Not Found
+121.41.17.36---------------404 Not Found
+121.41.17.146---------------404 Not Found
+https://183.222.99.108:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.233---------------404 Not Found
+https://118.89.207.167---------------400 Bad Request
+121.41.17.168:6082---------------404 Not Found
+https://222.211.12.215:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.33---------------404 Not Found
+121.41.17.228---------------404 Not Found
+https://118.89.207.120---------------400 Bad Request
+121.41.17.112---------------404 Not Found
+https://218.89.76.75:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.21:8000---------------400 Bad Request
+https://117.174.147.62:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.149---------------400 Bad Request
+https://118.89.207.147:8000---------------400 Bad Request
+https://43.243.235.110:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.71:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.237:8080---------------400 Bad Request
+https://118.89.207.42:8000---------------400 Bad Request
+https://222.211.12.121:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.226:2013---------------400 The plain HTTP request was sent to HTTPS port
+101.231.138.7:8080---------------HTTP Status 404 - Not Found
+https://171.90.249.35:2013---------------400 The plain HTTP request was sent to HTTPS port
+124.236.58.208---------------404 - Not Found
+https://118.89.207.123---------------400 Bad Request
+121.41.17.15---------------404 Not Found
+121.41.17.100---------------404 Not Found
+42.81.61.86---------------404 - File or directory not found.
+https://222.211.12.157:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.249:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.248:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.150:8080---------------400 Bad Request
+218.83.157.187---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://183.222.99.187:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.1---------------404
+https://218.89.76.67:2013---------------400 The plain HTTP request was sent to HTTPS port
+42.159.133.107---------------404 Not Found
+112.65.142.28---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://218.89.76.23:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.128---------------400 Bad Request
+https://118.89.207.165---------------400 Bad Request
+121.41.17.48---------------404 Not Found
+https://118.89.207.42:8080---------------400 Bad Request
+120.55.139.167---------------JBossWeb/2.0.1.GA - Error report
+https://183.222.99.116:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.132:8000---------------400 Bad Request
+218.83.157.183---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+121.41.17.4---------------404 Not Found
+https://118.89.207.120:8000---------------400 Bad Request
+https://118.89.207.164:8080---------------400 Bad Request
+https://118.89.207.148:8080---------------400 Bad Request
+https://118.89.207.139---------------400 Bad Request
+https://113.96.208.167:10000---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.132---------------400 Bad Request
+https://117.174.179.134:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.65:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.13:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.164:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.50:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.128:8080---------------400 Bad Request
+https://222.211.12.181:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.155:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.149:8080---------------400 Bad Request
+https://113.96.232.40---------------400 Bad Request
+https://118.89.207.121---------------400 Bad Request
+https://118.89.207.145:8000---------------400 Bad Request
+https://118.89.207.129---------------400 Bad Request
+121.41.17.31---------------404 Not Found
+https://117.174.179.135:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.20---------------404 Page Not Found
+113.96.208.201:8080---------------404 Not Found
+https://118.89.207.179---------------400 Bad Request
+https://118.89.207.120---------------400 Bad Request
+https://118.89.207.117---------------400 Bad Request
+183.222.99.29---------------404 - Not Found
+https://118.89.207.178---------------400 Bad Request
+120.55.139.189---------------404 Not Found
+https://183.222.99.72:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.142:8080---------------400 Bad Request
+121.41.17.186---------------404 Not Found
+https://103.254.188.84:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.144.181.173---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+43.243.235.38---------------404 - Not Found
+https://117.174.179.243:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://113.96.208.73:1025---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.245---------------404 Not Found
+https://118.89.207.172:8080---------------400 Bad Request
+https://222.211.12.179:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.176---------------404 Not Found
+https://118.89.207.136:8000---------------400 Bad Request
+https://218.89.76.129:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.58:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.45:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.120:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.211:2013---------------400 The plain HTTP request was sent to HTTPS port
+124.236.58.20---------------404 - Not Found
+https://118.89.207.23---------------400 Bad Request
+https://118.89.207.11---------------400 Bad Request
+113.96.208.182---------------404 Not Found
+https://118.89.207.163:8080---------------400 Bad Request
+https://118.89.207.171:8080---------------400 Bad Request
+https://118.89.207.142---------------400 Bad Request
+59.37.96.191---------------404 Not Found
+https://124.236.58.79:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.146:8080---------------400 Bad Request
+https://117.174.147.60:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.132:8080---------------400 Bad Request
+https://183.222.99.55:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.123:8080---------------400 Bad Request
+https://218.89.76.19:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.112:2013---------------400 The plain HTTP request was sent to HTTPS port
+43.243.234.134---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.121:8000---------------400 Bad Request
+121.41.17.114---------------404 Not Found
+https://183.222.99.62:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://42.81.61.20:50070---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.12:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.25:9090---------------400 Bad Request
+https://124.236.58.89:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.117---------------404-中电协通
+https://43.243.234.32:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.55:2013---------------400 The plain HTTP request was sent to HTTPS port
+120.55.139.145---------------404 Not Found
+101.231.138.252---------------404 - File or directory not found.
+https://118.89.207.131---------------400 Bad Request
+https://124.236.58.46:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.188:7001---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.161---------------400 Bad Request
+https://222.211.12.128:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.102:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.221:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.65:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.236:2013---------------400 The plain HTTP request was sent to HTTPS port
+218.89.76.120---------------404 Not Found
+https://183.222.99.64:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.88:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.61:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.153:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.98:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.122---------------400 Bad Request
+43.243.234.52---------------404 Not Found
+120.55.139.141---------------404
+https://218.89.76.107:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://171.90.249.38:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://121.41.17.240/dx8hjdgoperjf---------------404 Not Found
+https://222.211.12.65:7001---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.228:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.86---------------404
+https://118.89.207.111:8000---------------400 Bad Request
+120.55.139.114---------------404 Not Found
+https://app.ecidi.com/dx8hjdgoperjf---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://222.211.12.177:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.214---------------404 Not Found
+https://118.89.207.178:8000---------------400 Bad Request
+https://118.89.207.165:8080---------------400 Bad Request
+https://222.211.12.92:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.120:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.43:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://121.41.17.240/dx8hjdgoperjf---------------404 Not Found
+https://218.89.76.80:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.162:8000---------------400 Bad Request
+https://222.211.12.126:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.125:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.176:8000---------------400 Bad Request
+https://124.236.58.11:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.41---------------400 Bad Request
+121.41.17.85---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://103.254.188.52:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.85:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.117:8000---------------400 Bad Request
+https://218.89.76.60:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.189---------------404 Not Found
+https://222.211.12.178:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.161---------------404 Not Found
+https://42.81.61.53---------------400 Bad Request
+https://118.89.207.125:8000---------------400 Bad Request
+https://118.89.207.195:8080---------------400 Bad Request
+https://218.89.76.84:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.129:8080---------------400 Bad Request
+101.231.138.240---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+101.231.138.36---------------404 Not Found
+https://183.222.99.251:2013---------------400 The plain HTTP request was sent to HTTPS port
+117.144.181.180---------------404 Not Found
+https://118.89.207.179---------------400 Bad Request
+59.37.96.197---------------404 Not Found
+https://118.89.207.159---------------400 Bad Request
+https://118.89.207.11:8000---------------400 Bad Request
+https://118.89.207.207:8080---------------400 Bad Request
+https://118.89.207.178:8080---------------400 Bad Request
+https://118.89.207.176:8083---------------400 Bad Request
+https://118.89.207.136:8080---------------400 Bad Request
+https://222.211.12.105:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.232:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.55:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.104:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.149:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.135:8080---------------400 Bad Request
+https://124.236.58.68:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.25:8080---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.179.155:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.113:8080---------------400 Bad Request
+https://183.222.99.85:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.47:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.160:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.41:50070---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.66:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.27:8000---------------400 Bad Request
+43.243.234.162---------------404 Not Found
+121.41.17.63---------------Error 404
+https://118.89.207.135:8000---------------400 Bad Request
+120.55.139.210---------------404 Not Found
+https://118.89.207.149:8000---------------400 Bad Request
+https://222.211.12.155:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.74:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://103.254.188.87:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.225:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.211:8080---------------400 Bad Request
+https://183.222.99.89:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.103:8080---------------Apache Tomcat/8.0.32 - Error report
+43.243.234.45---------------404 Not Found
+https://124.236.58.75:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.73:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.97---------------404 Not Found
+https://118.89.207.179:8000---------------400 Bad Request
+https://118.89.207.155:8080---------------400 Bad Request
+https://103.254.188.41:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.166:8080---------------400 Bad Request
+https://222.211.12.113:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.38:7002---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.85:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://113.96.208.239:9200---------------400 The plain HTTP request was sent to HTTPS port
+218.83.157.3:8000---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+101.231.138.36---------------404 Not Found
+https://117.174.147.56:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.53:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.250---------------Apache Tomcat/8.0.30 - Error report
+https://124.236.58.64:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.105:2013---------------400 The plain HTTP request was sent to HTTPS port
+59.37.96.247---------------404 Not Found
+121.41.17.140---------------404 Not Found
+https://42.81.61.24:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.128:8000---------------400 Bad Request
+https://118.89.207.170:8080---------------400 Bad Request
+https://118.89.207.125:8080---------------400 Bad Request
+https://118.89.207.161:8000---------------400 Bad Request
+https://118.89.207.211:8000---------------400 Bad Request
+https://118.89.207.140:8080---------------400 Bad Request
+https://118.89.207.127:8000---------------400 Bad Request
+https://118.89.207.150:8000---------------400 Bad Request
+https://118.89.207.177:8080---------------400 Bad Request
+https://113.96.208.167:8000---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.134:8000---------------400 Bad Request
+121.41.17.160---------------404 Not Found
+121.41.17.47---------------404 - ÕÒ²"µ½ÎÄ¼þ"òÄ¿Â¼¡£
+https://118.89.207.25---------------400 Bad Request
+43.243.234.100:8000---------------404 Not Found
+https://222.211.12.122:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.207:8083---------------400 Bad Request
+https://222.211.12.129:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.254:8080---------------HTTP Status 404 - Not Found
+https://222.211.12.111:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://117.174.147.42:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://183.222.99.132:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://218.89.76.22:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.66:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://121.41.17.210/dx8hjdgoperjf---------------404 Not Found
+https://218.89.76.69:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://124.236.58.85:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://43.243.234.241:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://222.211.12.137:2013---------------400 The plain HTTP request was sent to HTTPS port
+121.41.17.18:8080---------------Error 404 Not Found
+https://218.89.76.86:2013---------------400 The plain HTTP request was sent to HTTPS port
+https://118.89.207.27:8080---------------400 Bad Request
+https://118.89.207.122:8080---------------400 Bad Request
+https://118.89.207.144:8080---------------400 Bad Request
+https://118.89.207.180:8080---------------400 Bad Request
+https://183.222.99.252:2013---------------400 The plain HTTP request was sent to HTTPS port
