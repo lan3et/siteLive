@@ -29,14 +29,12 @@ SiteLive-python3.6
 
 #### 运行结果
 ***
-live_site：正常的WEB网站
-almost_live_site：存在WEB服务且大概率业务正常运行的网站
-nearly_dead_site：几乎可放弃的网站
-dead_site：WEB服务不存活的网站或利用门槛极高几乎无利用价值的网站
-not_web_site：非WEB业务的地址
++ live_site：正常的WEB网站
++ almost_live_site：存在WEB服务且大概率业务正常运行的网站
++ nearly_dead_site：几乎可放弃的网站
++ dead_site：WEB服务不存活的网站或利用门槛极高几乎无利用价值的网站
++ not_web_site：非WEB业务的地址
 
 #### 备注
 ***
 由于asyncio调用底层的select()，在linux服务器下最多只能有1024个线程，win下最多只有509个线程，线程数超过会报错，此处采用回调接口的方式解决，也可采取限制线程数<509来解决
-
-
