@@ -28,159 +28,173 @@ async def check_state(url):
 		async with aiohttp.ClientSession() as session:
 			if 'https' in url:
 				async with session.get(url + '/dx8hjdgoperjf', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
-					print(res.status)
+					resp = await response.text()
 			else:
 				async with session.get('http://' + url + '/dx8hjdgoperjf', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
-					print(response.status)
+					resp = await response.text()
 			if response.status == 400:
 				if 'https' not in url:
 					if 'http' not in url:
 						url = 'https://'+url
 						async with session.get(url + '/dx8hjdgoperjf', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
 							print(response.status)
+							resp = await response.text()
 						if response.status != 400:
 							check_state(url)
 						else:
-							dead_site.append(url)#+'---------------'+Document(response.text()()).title())
+							dead_site.append(url+'----------------'+Document(resp).title())
 					else:
 						url.replace('http','https')
 						async with session.get(url + '/dx8hjdgoperjf', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
 							print(response.status)
+							resp = await response.text()
 						if response.status != 400:
 							check_state(url)
 						else:
-							dead_site.append(url)#+'---------------'+Document(response.text()()).title())
+							dead_site.append(url+'----------------'+Document(resp).title())
 				elif 'https' in url:
 					url.replace('https://','')
 					async with session.get('http://' + url + '/dx8hjdgoperjf', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+						resp = await response.text()
 						print(response.status)
 					if requests.status != 400:
 						check_state(url)
 					else:
-						dead_site.append(url)
+						dead_site.append(url+'----------------'+Document(resp).title())
 			elif response.status == 200:
 				for key in keywords_404:
-					if key in response.text():
-						live_site.append(url)
+					if key in resp:
+						live_site.append(url+'----------------'+Document(resp).title())
 					else:
-						CL = response.headers['Content-Length']
+						CL = resp.headers['Content-Length']
 						m = hashlib.md5()
-						text = response.text().encode(encoding='utf-8')
+						text = resp.encode(encoding='utf-8')
 						m.update(text)
 						hash_text = m.hexdigest()
 						if 'https' in url:
 							async with session.get(url + '/ljgfdsnvcxjkfds', verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+								resp = await response.text()
 								print(response.status)
 						else:
 							async with session.get('http://' + url + '/ljgfdsnvcxjkfds', verify_ssl=False, allow_redirects=False,timeout=4, headers=headers) as response:
+								resp = await response.text()
 								print(response.status)
 							if response.status == 200:
-								CL2 = response.headers['Content-Length']
+								CL2 = resp.headers['Content-Length']
 								i = hashlib.md5()
-								text = response.text().encode(encoding='utf-8')
+								text = resp.encode(encoding='utf-8')
 								i.update(text)
 								hash_text2 = i.hexdigest()
 								if hash_text == hash_text2 or abs(int(CL) - int(CL2)) < 5:
-									nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+									nearly_dead_site.append(url+'----------------'+Document(resp).title())
 								else:
-									almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+									almost_live_site.append(url+'----------------'+Document(resp).title())
 							elif response.status == 301 or response.status == 302:
-								live_site.append(url)#+'---------------'+Document(response.text()).title)
+								live_site.append(url+'----------------'+Document(resp).title)
 							elif response.status in [403, 404, 415]:
-								almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+								almost_live_site.append(url+'----------------'+Document(resp).title())
 							elif response.status == 500:
-								nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+								nearly_dead_site.append(url+'----------------'+Document(resp).title())
 							elif response.status in [501, 502, 503, 504]:
 								if 'https' in url:
 									async with session.get(url, verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+										resp = await response.text()
 										print(response.status)
 								else:
 									async with session.get('http://' + url, verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+										resp = await response.text()
 										print(response.status)
 								if response.status == 200:
-									CL3 = response.headers['Content-Length']
+									CL3 = resp.headers['Content-Length']
 									n = hashlib.md5()
-									text = response.text().encode(encoding='utf-8')
+									text = resp.encode(encoding='utf-8')
 									n.update(text)
 									hash_text3 = n.hexdigest()
 									if hash_text == hash_text3 or abs(CL - CL3) < 5:
-										nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+										nearly_dead_site.append(url+'----------------'+Document(resp).title())
 									else:
-										almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+										almost_live_site.append(url+'----------------'+Document(resp).title())
 								elif response.status == 301 or response.status == 302:
-									live_site.append(url)#+'---------------'+Document(response.text()).title())
+									live_site.append(url+'----------------'+Document(resp).title())
 								elif response.status in [403, 404, 415]:
-									almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+									almost_live_site.append(url+'----------------'+Document(resp).title())
 								elif response.status == 500:
-									nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+									nearly_dead_site.append(url+'----------------'+Document(resp).title())
 								elif response.status in [501, 502, 503, 504]:
-									dead_site.append(url)#+'---------------'+Document(response.text()).title())
+									dead_site.append(url+'----------------'+Document(resp).title())
 								else:
-									not_web_site.append(url)#+'---------------'+Document(response.text()).title())
+									not_web_site.append(url+'----------------'+Document(resp).title())
 			elif response.status == 404:
 				if 'https' in url:
 					async with session.get(url, verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+						resp = await response.text()
 						print(response.status)
 				else:
 					async with session.get('http://' + url, verify_ssl=False, allow_redirects=False, timeout=4, headers=headers) as response:
+						resp = await response.text()
 						print(response.status)
 				if response.status ==200:
-					live_site.append(url)#+'---------------'+Document(response.text()).title())
+					live_site.append(url+'----------------'+Document(resp).title())
 				if response.status in [301,302]:
 					async with session.get(response.headers['Location'], verify_ssl=False, allow_redirects=False, timeout=4, headers=headers) as response2:
+						resp = await response2.text()
 						print(response2.status)
 					if response2.status == 200:
-						live_site.append(url + '---------------' + Document(response.text()).title())
+						live_site.append(url + '---------------' + Document(resp).title())
 					if response2.status in [301,302]:
 						async with session.get(response2.headers['Location'], verify_ssl=False, allow_redirects=False, timeout=4, headers=headers) as response3:
+							resp = await response3.text()
 							print(response3.status)
-						live_site.append(url)#+'---------------'+Document(response3.text()).title())
+						live_site.append(url+'----------------'+Document(resp).title())
 				elif response.status in [403, 404, 415]:
-					almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+					almost_live_site.append(url+'----------------'+Document(resp).title())
 				elif response.status == 500:
-					nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+					nearly_dead_site.append(url+'----------------'+Document(resp).title())
 				elif response.status in [501, 502, 503, 504]:
 					if 'https' in url:
 						async with session.get(url, verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+							resp = await response.text()
 							print(response.status)
 					else:
 						async with session.get('http://' + url, verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response:
+							resp = await response.text()
 							print(response.status)
 					if response.status in [200, 301, 302]:
-						live_site.append(url)
+						live_site.append(url+'----------------'+Document(resp).title())
 					elif response.status in [403, 404, 415]:
-						almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+						almost_live_site.append(url+'----------------'+Document(resp).title())
 					elif response.status == 500:
-						nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+						nearly_dead_site.append(url+'----------------'+Document(resp).title())
 					elif response.status in [501, 502, 503, 504]:
-						dead_site.append(url)#+'---------------'+Document(response.text()).title())
+						dead_site.append(url+'----------------'+Document(resp).title())
 					else:
-						not_web_site.append(url)#+'---------------'+Document(response.text()).title())
+						not_web_site.append(url+'----------------'+Document(resp).title())
 				else:
-					not_web_site.append(url)#+'---------------'+Document(response.text()).title())
+					not_web_site.append(url+'----------------'+Document(resp).title())
 			elif response.status == 401 or response.status == 415:
-				almost_live_site.append(url)#+'---------------'+Document(response.text()).title())
+				almost_live_site.append(url+'----------------'+Document(resp).title())
 			elif response.status == 301 or response.status == 302:
 					async with session.get(response.headers['Location'],verify_ssl=False, allow_redirects=False, timeout=4,headers=headers) as response2:
+						resp = await response2.text()
 						print(response2.status)
 					if response2.status == 200:
-						live_site.append(url)#+'---------------'+Document(response2.text()).title())
+						live_site.append(url+'----------------'+Document(resp).title())
 					elif response2.status in [301,302]:
-						nearly_dead_site.append(url)#+'---------------'+Document(response2.text()).title())
+						nearly_dead_site.append(url+'----------------'+Document(resp).title())
 					elif 'https' in response.headers['Location']:
 						check_state(response.headers['Location'])
 					#else:
 			elif response.status == 304:
-				live_site.append(url)#+'---------------'+Document(response.text()).title())
+				live_site.append(url+'----------------'+Document(resp).title())
 			elif response.status == 403 or response.status == 500:
-				nearly_dead_site.append(url)#+'---------------'+Document(response.text()).title())
+				nearly_dead_site.append(url+'----------------'+Document(resp).title())
 			elif response.status in [501, 502, 503, 504]:
-				dead_site.append(url)#+'---------------'+Document(response.text()).title())
+				dead_site.append(url+'----------------'+Document(resp).title())
 			else:
-				not_web_site.append(url)#+'---------------'+Document(response.text()).title())
+				not_web_site.append(url+'----------------'+Document(resp).title())
 	except Exception as e:
 		print('requset to ' + url + ' is worng')
-		not_web_site.append(url)#+'---------------'+Document(response.text()).title())
+		not_web_site.append(url)
 
 
 def read_file(filename):
